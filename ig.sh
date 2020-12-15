@@ -18,8 +18,8 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-cowsay -f eyes "Termux.id" | lolcat
-figlet -f slant "Termux.id" | lolcat
+cowsay -f eyes "MRCRACKED" | lolcat
+figlet -f slant "MR.CRACKED" | lolcat
 echo "  <========================[]=======================>" | lolcat
 echo "  <=====[          Tools By Mr.Cracked        ]=====>" | lolcat
 echo "  <=====[ Concact Me : twitter.com/MrCracked3 ]=====>" | lolcat
