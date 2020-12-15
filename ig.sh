@@ -50,11 +50,11 @@ echo -e $b "00. Exit${enda}";
 read -p "Pilih Nomernya =>" pil;
 
 case $pil in
-1) nano pass.txt
+1) nano abc.txt
 echo
 
 ;;
-2) nano proxy.txt
+2) nano abcd.txt
 echo
 
 ;;
